@@ -1,0 +1,10 @@
+{
+  "name": "UnitTrainerMod",
+  "author": "Vincent van Hoven",
+  "version": "1.0.0",
+  "description": "Adds the option to edit unit stats.",
+  "iconPath": "icon_padding.png",
+  "Dependencies": [],
+  "OptionalDependencies": [],
+  "IncompatibleWith": []
+}
